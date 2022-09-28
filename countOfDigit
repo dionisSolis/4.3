@@ -29,6 +29,7 @@ namespace digits
                     countOfDigit += 1;
                 }
             }
+            
             Console.WriteLine($"\nЧисло {digitForSearch} находится в массиве в размере {countOfDigit} шт.");
         }
     }
